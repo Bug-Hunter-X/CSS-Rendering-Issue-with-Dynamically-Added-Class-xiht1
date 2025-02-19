@@ -1,0 +1,1 @@
+This repository contains a CSS bug and its solution. The bug involves an unexpected rendering behavior when a specific class is dynamically added to an element. The solution demonstrates how to correct this issue and ensure proper rendering.
