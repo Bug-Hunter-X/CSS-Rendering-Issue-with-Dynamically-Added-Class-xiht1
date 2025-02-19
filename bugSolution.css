@@ -1,0 +1,9 @@
+/* bugSolution.css */
+#myElement {
+  background-color: white;
+}
+
+#myElement.highlight {
+  background-color: yellow !important;
+}
+/*The !important flag is added to ensure that the style is applied despite any other conflicting styles */
